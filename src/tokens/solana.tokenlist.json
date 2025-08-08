@@ -1,22 +1,14 @@
 {
-  "name": "VAMP Network Token List",
-  "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/assets/logo.png",
-  "tags": {
-    "utility-token": {
-      "name": "Utility Token",
-      "description": "Tokens with a clear utility in the VAMP Network ecosystem."
-    }
-  },
-  "timestamp": "2025-08-06T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 101,
-      "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
-      "symbol": "VAMP",
-      "name": "VAMP Network",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/assets/logo.png",
-      "tags": ["utility-token"]
-    }
-  ]
+  "chainId": 101,
+  "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
+  "symbol": "VAMP",
+  "name": "VAMP Network",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/MIB0007/token-list/main/assets/mainnet/8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN/logo.png",
+  "tags": ["utility-token", "staking", "community"],
+  "extensions": {
+    "website": "https://mib0007.github.io/vampnetwork.github.io/",
+    "discord": "https://discord.gg/4wbJeiN8Mf",
+    "twitter": "https://x.com/yourhandle"
+  }
 }
