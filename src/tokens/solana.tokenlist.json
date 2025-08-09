@@ -18,19 +18,20 @@
   "timestamp": "2025-08-07T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 101,
-      "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEp2y4fgwN",
-      "symbol": "VAMP",
-      "name": "VAMP Network",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/MIB0007/token-list/main/assets/mainnet/8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEp2y4fgwN/logo.png",
-      "tags": ["utility-token", "staking", "community"],
-      "extensions": {
-        "website": "https://mib0007.github.io/vampnetwork_github.io/",
-        "discord": "https://discord.gg/4wbei5NMPv",
-        "twitter": "https://x.com/yourhandle"
-      }
-    }
+  "chainId": 101,
+  "address": "Diid9YdyNTLLzoCE24ime5DpQeNSRZvyFjiTVEvWsW88",
+  "symbol": "VAMP",
+  "name": "VAMP Network",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png",
+  "tags": ["utility-token", "staking", "community"],
+  "extensions": {
+    "website": "https://vampnetwork.github.io",
+    "description": "VAMP Network — a Solana SPL token with NFT utilities, staking rewards, and community-driven governance.",
+    "discord": "https://discord.gg/4ue8kV9P",
+    "twitter": "https://x.com/yourhandle"
+  }
+}
   ],
   "version": {
     "major": 1,
@@ -38,3 +39,4 @@
     "patch": 0
   }
 }
+
