@@ -2,8 +2,8 @@
   "name": "Solana Token List",
   "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/logo.png",
   "tags": {
-    "utility-token": {
-      "name": "Utility Token",
+    "utility": {
+      "name": "Utility",
       "description": "Token used for utility purposes"
     },
     "staking": {
@@ -13,30 +13,37 @@
     "community": {
       "name": "Community",
       "description": "Token for community projects"
+    },
+    "kawaii": {
+      "name": "Kawaii",
+      "description": "Cute + dark community aesthetic"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "description": "Gaming or metaverse related"
     }
   },
-  "timestamp": "2025-08-07T00:00:00+00:00",
+  "timestamp": "2025-08-12T00:00:00+00:00",
   "tokens": [
     {
-  "chainId": 101,
-  "address": "Diid9YdyNTLLzoCE24ime5DpQeNSRZvyFjiTVEvWsW88",
-  "symbol": "VAMP",
-  "name": "VAMP Network",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png",
-  "tags": ["utility-token", "staking", "community"],
-  "extensions": {
-    "website": "https://vampnetwork.github.io",
-    "description": "VAMP Network — a Solana SPL token with NFT utilities, staking rewards, and community-driven governance.",
-    "discord": "https://discord.gg/4ue8kV9P",
-    "twitter": "https://x.com/yourhandle"
-  }
-}
+      "chainId": 101,
+      "address": "8NRkLGMT1vxNVBn1c7JaHG7g5BYYLeCCPLEpQ2y4fgwN",
+      "symbol": "VAMP",
+      "name": "VAMP Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
+      "tags": ["utility", "staking", "community", "kawaii", "gaming"],
+      "extensions": {
+        "website": "https://mib0007.github.io/vampnetwork.github.io/",
+        "discord": "https://discord.gg/MghUGzNF",
+        "twitter": "https://x.com/vampnetwork",
+        "description": "🦇 VAMP Network 🦇\nWelcome to the world of Vampy, our adorable kawaii vampire 🧛‍♂️ With a bold mission:\nTo build a rare, community-driven, and sustainable token on the Solana ecosystem.\n\n🌙 Key Features\n\n🔒 Limited Supply — Only 100,000,000 VAMP, balancing accessibility and scarcity.\n\n🪙 Progressive Staking — Rewards range from 4% to 8%, with 3 tiers to incentivize loyalty and promote sustainable growth.\n\n🦇 Kawaii & Dark Community — A unique world of adorable bats and mysterious vibes — cute meets cryptic.\n\n🏰 Long-Term Vision — A transparent and evolving ecosystem built around VAMP Network.\n\n💬 Join the Night Clan\n\n➡️ Discord: https://discord.gg/MghUGzNF\n➡️ Website: https://mib0007.github.io/vampnetwork.github.io/\n\n✨ Be part of the nocturnal clan and help us make the moon 🌕 shine above the crypto community!"
+      }
+    }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
-
